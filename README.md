@@ -1,1 +1,1 @@
-# streamlitTest 정보 연수
+# streamlitTest 정보컴퓨터 연수
